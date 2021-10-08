@@ -31,8 +31,6 @@ var rules = [
   ".pixiv.net",
   ".pximg.net",
   ".python.org",
-  "||github.com",
-  ".github.com",
   "||software.bluemic.com",
   "||vb-audio.com",
   "||store.nintendo.com.hk",
@@ -317,7 +315,8 @@ var rules = [
   "||dlsite.com",
   ".git.io",
   "||git.io",
-  "github.com",
+  "||github.com",
+  ".github.com",
   ".github.io",
   "||github.io",
   "||githubusercontent.com",
@@ -336,7 +335,7 @@ var rules = [
   "megavideo.com",
   ".w3.org",
   "||w3schools.com",
-  ".w3schools.com",
+  ".w3schools.com"
 ];
 
 
