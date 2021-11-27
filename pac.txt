@@ -7,6 +7,7 @@ var rules = [
   "||winget.azureedge.net",
   "||ocsp.digicert.com",
   ".aescripts.com",
+  ".voukoder.org",
   "||thepcgames.net",
   ".pixabay.com",
   "||pixabay.com",
