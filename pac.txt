@@ -13,6 +13,7 @@ var rules = [
   "||pixabay.com",
   ".rakuten.co.jp",
   ".doaxvv.com",
+  ".nexusmods.com",
   "||api.doaxvv.com",
   "||game.doaxvv.com",
   ".galgamezy.com",
