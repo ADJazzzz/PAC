@@ -14,6 +14,7 @@ var rules = [
   ".rakuten.co.jp",
   ".doaxvv.com",
   ".nexusmods.com",
+  ".nexus-cdn.com",
   "||api.doaxvv.com",
   "||game.doaxvv.com",
   ".galgamezy.com",
