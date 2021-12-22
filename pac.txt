@@ -11,6 +11,7 @@ var rules = [
   "||thepcgames.net",
   ".pixabay.com",
   "||pixabay.com",
+  ".pngpix.com",
   ".rakuten.co.jp",
   ".doaxvv.com",
   ".nexusmods.com",
