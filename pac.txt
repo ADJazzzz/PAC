@@ -24,6 +24,7 @@ var rules = [
   "||game.doaxvv.com",
   ".fextralife.com",
   "||gr-prod-steam.fromsoftware-game.net",
+  ".filefactory.com",
   ".galgamezy.com",
   "||galgamezy.com",
   ".acgzy8.com",
