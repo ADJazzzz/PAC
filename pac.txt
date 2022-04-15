@@ -4,12 +4,15 @@ var proxy = "__PROXY__";
 
 var rules = [
   ".mora.jp",
+  ".wikipedia.org",
+  ".wikimedia.org",
   "||winget.azureedge.net",
   "||ocsp.digicert.com",
   ".aescripts.com",
   ".voukoder.org",
   "||rutracker.org",
   ".t-ru.org",
+  "||fastpic.org",
   ".izotope.com",
   "||thepcgames.net",
   ".pixabay.com",
