@@ -1,9 +1,10 @@
-﻿// 女生自用PAC
+﻿﻿// 女生自用PAC
 
 var proxy = "__PROXY__";
 
 var rules = [
   ".mora.jp",
+  ".gyan.dev",
   ".wikipedia.org",
   ".wikimedia.org",
   "||winget.azureedge.net",
@@ -54,6 +55,10 @@ var rules = [
   "||pixiv.net",
   ".pixiv.net",
   ".pximg.net",
+  ".fanbox.cc",
+  ".ketchcdn.com",
+  ".patreon.com",
+  ".patreonusercontent.com",
   ".python.org",
   "||software.bluemic.com",
   "||vb-audio.com",
