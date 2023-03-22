@@ -5,6 +5,9 @@ var proxy = "__PROXY__";
 var rules = [
   ".mora.jp",
   "||bertom.gumroad.com",
+  ".bing.com",
+  "||v2raya.org",
+  "||xxxxx520.com",
   "heaven-burns-red-assets.akamaized.net",
   "||heaven-burns-red-assets.akamaized.net",
   "api.heaven-burns-red.wfs.games",
