@@ -5,6 +5,9 @@ var proxy = "__PROXY__";
 var rules = [
   ".mora.jp",
   "||bertom.gumroad.com",
+  "||nxbrew.com",
+  "secure.gravatar.com",
+  "||xicons.org",
   "www.bing.com",
   "edgeservices.bing.com",
   "www2.bing.com",
