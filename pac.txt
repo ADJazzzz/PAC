@@ -7,6 +7,7 @@ var rules = [
   "||bertom.gumroad.com",
   "||nxbrew.com",
   "secure.gravatar.com",
+  ".deepl.com",
   "||xicons.org",
   "www.bing.com",
   "edgeservices.bing.com",
