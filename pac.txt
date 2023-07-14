@@ -3,6 +3,9 @@
 var proxy = '__PROXY__'
 
 var rules = [
+  '.mod.io',
+  'modcdn.io',
+  '.noire.cc',
   '.mora.jp',
   '||bertom.gumroad.com',
   '||nxbrew.com',
