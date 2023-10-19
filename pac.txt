@@ -33,6 +33,7 @@ var rules = [
     '.backblazeb2.com',
     '||openai.com',
     '.openai.com',
+    '.chat.openai.com',
     '.intercom.io',
     '||sms-activate.org',
     '.stripo.email',
