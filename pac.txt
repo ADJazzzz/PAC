@@ -3,6 +3,10 @@
 var proxy = '__PROXY__'
 
 var rules = [
+    '.redditinc.com',
+    '.redd.it',
+    '.redditmedia.com',
+    '.reddit.com',
     '||challenges.cloudflare.com',
     '.tarac.nl',
     '.mod.io',
