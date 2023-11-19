@@ -3,12 +3,12 @@
 var proxy = '__PROXY__'
 
 var rules = [
+    '||challenges.cloudflare.com',
+    '.tarac.nl',
     '.redditinc.com',
     '.redd.it',
     '.redditmedia.com',
     '.reddit.com',
-    '||challenges.cloudflare.com',
-    '.tarac.nl',
     '.mod.io',
     'modcdn.io',
     '.noire.cc',
@@ -130,6 +130,7 @@ var rules = [
     '||comicat.org',
     '||bangumi.moe',
     '||kisssub.org',
+    'nyaa.si',
     '.escapefromtarkov.com',
     '.hcaptcha.com',
     '.xiaomi.eu',
