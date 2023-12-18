@@ -425,6 +425,7 @@ var rules = [
     '||githubassets.com',
     '.githubusercontent.com',
     '||githubuniverse.com',
+    '.huggingface.co',
     '.googlesile.com',
     '.lightnovel.cn',
     '||line.me',
