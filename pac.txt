@@ -3,7 +3,6 @@
 var proxy = '__PROXY__'
 
 var rules = [
-    '||challenges.cloudflare.com',
     '.tarac.nl',
     'saucenao.com',
     '.redditinc.com',
@@ -17,6 +16,12 @@ var rules = [
     'edgeservices.bing.com',
     '.mora.jp',
     '.wiki.gg',
+    '||comicbox.vip',
+    '.baozicdn.com',
+    '.copymanga.tv',
+    '.mangafuna.xyz',
+    '.bootcdn.net',
+    '||pixeldrain.com',
     '||bertom.gumroad.com',
     '||nxbrew.com',
     'secure.gravatar.com',
@@ -53,6 +58,8 @@ var rules = [
     '||gl-payment.gree-apps.net',
     '||x1.c.lencr.org',
     '||cdnjs.cloudflare.com',
+    '||challenges.cloudflare.com',
+    'challenges.cloudflare.com',
     '||audiofb.com',
     '.gyan.dev',
     '||lightnovel.us',
