@@ -47,6 +47,7 @@ var rules = [
     '||openai.com',
     '.openai.com',
     '.chat.openai.com',
+    '||chatgpt.com',
     '||cdn.oaistatic.com',
     '.intercom.io',
     '||sms-activate.org',
