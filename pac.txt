@@ -418,6 +418,8 @@ var rules = [
     '.twitter.com',
     '||twitter.com',
     '||twitter.jp',
+    "||x.com",
+    ".x.com",
     '.v2ex.com',
     '.yahoo.com',
     '.yahoodns.net',
