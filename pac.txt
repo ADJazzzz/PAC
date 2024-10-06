@@ -127,6 +127,7 @@ var rules = [
     '||pixiv.net',
     '.pixiv.net',
     '.pximg.net',
+    '.pixiv.org',
     '.fanbox.cc',
     '.ketchcdn.com',
     '.patreon.com',
