@@ -5,6 +5,8 @@ var proxy = '__PROXY__'
 var rules = [
     '.tarac.nl',
     'saucenao.com',
+    '||doujinstyle.com',
+    '.radio.co',
     '||codec.kyiv.ua',
     '.redditinc.com',
     '.redd.it',
