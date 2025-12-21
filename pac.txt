@@ -1,10 +1,11 @@
-﻿// 女生自用PAC
+// 女生自用PAC
 
 var proxy = '__PROXY__'
 
 var rules = [
     '.tarac.nl',
     'saucenao.com',
+    '.1lou.me',
     '||doujinstyle.com',
     '.radio.co',
     '||codec.kyiv.ua',
@@ -17,6 +18,7 @@ var rules = [
     '.mod.io',
     'modcdn.io',
     '.noire.cc',
+    'www.bing.com',
     'sydney.bing.com',
     'edgeservices.bing.com',
     'copilot.microsoft.com',
@@ -56,7 +58,7 @@ var rules = [
     '.intercom.io',
     '||sms-activate.org',
     '.stripo.email',
-    '.unlock-music.dev',
+    'git.um-react.app',
     '.netlify.app',
     '.ingest.sentry.io',
     '.godaddy.com',
@@ -448,6 +450,8 @@ var rules = [
     '||githubassets.com',
     '.githubusercontent.com',
     '||githubuniverse.com',
+    '.githubcopilot.com',
+    '||githubcopilot.com',
     '.huggingface.co',
     '||huggingface.co',
     '.docker.com',
