@@ -452,6 +452,8 @@ var rules = [
     '||githubuniverse.com',
     '.githubcopilot.com',
     '||githubcopilot.com',
+    '||githubassets.com',
+    '.githubassets.com',
     '.huggingface.co',
     '||huggingface.co',
     '.docker.com',
